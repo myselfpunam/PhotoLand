@@ -83,10 +83,7 @@
 
 
 /*** Navbar ***/
-.navbar.fixed-top {
-    display: none;
-    transition: .5s;
-}
+
 
 .navbar .navbar-nav .nav-link {
     padding: 20px 15px;
@@ -126,8 +123,7 @@
         top: 150%;
         right: 15px;
         opacity: 0;
-        visibility: hidden;
-        transition: .5s;
+      
 
     }
 
